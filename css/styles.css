@@ -175,6 +175,7 @@ a:hover{
 
 @media (max-width: 1028px) {
   .skills{
-    width: 75%;
+    margin-left: 10%;
+    margin-right: 10%;
   }
 }
