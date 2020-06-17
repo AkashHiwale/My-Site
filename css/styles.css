@@ -178,7 +178,11 @@ a:hover{
     width: 70%;
   }
 
-  .skills{
+  .skill-row{
+    width: 70%;
+  }
+
+  .hobbies-row{
     width: 70%;
   }
 
