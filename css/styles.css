@@ -172,3 +172,9 @@ a:hover{
 	position:relative;
 	top:1px;
 }
+
+@media (max-width: 1028px) {
+  .skills{
+    width: 75%;
+  }
+}
