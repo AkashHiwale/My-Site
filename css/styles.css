@@ -82,14 +82,14 @@ a:hover{
 }
 .skill-row{
   margin:auto;
-  width: 70%;
+  width: 50%;
   text-align: left;
   padding-bottom: 80px;
   padding-top: 20px;
 }
 .hobbies-row{
   margin:auto;
-  width: 70%;
+  width: 50%;
   text-align: left;
   padding-bottom: 100px;
   padding-top: 30px;
@@ -171,4 +171,15 @@ a:hover{
 .myButton:active {
 	position:relative;
 	top:1px;
+}
+
+@media (min-width:320px){
+  .profile{
+    width: 70%;
+  }
+
+  .skills{
+    width: 70%;
+  }
+
 }
